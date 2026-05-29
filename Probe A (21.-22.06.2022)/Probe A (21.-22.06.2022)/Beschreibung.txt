@@ -1,0 +1,7 @@
+sensor_[1-4]_empty_cuvette 	= leere Küvette
+sensor_[1-4]_lamp_off 		= Lampe aus
+sensor_[1-4]_lamp_on 		= Lampe an
+sensor_[1-4]_sample_01 		= Nullprobe
+sensor_[1-4]_sample_[02-48] 	= Proben 02 - 48 mit unterschiedlichen Essigsäure-Konzentrationen
+sensor_[1-4]_sample_49 		= Probe 17 nochmal
+sensor_[1-4]_sample_50 		= Probe 27 nochmal
