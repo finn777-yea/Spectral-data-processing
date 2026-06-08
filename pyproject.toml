@@ -1,0 +1,19 @@
+[project]
+name = "spectral-data-processing"
+version = "0.1.0"
+description = "Process and visualize spectra from NIR sensors."
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "scikit-learn>=1.9.0",
+    "scipy>=1.17.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "nbstripout>=0.9.1",
+]

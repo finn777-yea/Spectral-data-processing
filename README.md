@@ -7,15 +7,10 @@ This project focuses on processing and visualizing spectra measured from four di
 - Plot and compare spectra collected from multiple NIR sensors.
 - Compute similarity metrics between spectra from different sample measurements.
 
-## Main Script
+## Setup
 
-- `linggas code/plot_all_measured_data_and_create_csv.py`
-
-## Quick Start
-
-From the project root:
+Install [uv](https://docs.astral.sh/uv/), then from the project root:
 
 ```bash
-python "linggas code/plot_all_measured_data_and_create_csv.py"
+uv sync
 ```
-

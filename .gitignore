@@ -1,5 +1,6 @@
 *.csv
 .cursor/
 .vscode/
+.venv/
 __pycache__/
 *.py[cod]
